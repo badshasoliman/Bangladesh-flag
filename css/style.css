@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    margin: 0 auto;
+    height: 300px;
+    width: 550px;
+    background:green;
+    margin-top: 200px;
+    padding-left: 50px;
+    position: relative;
+    
+}
+
+.two{
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 80px;
+    height: 150px;
+    width: 150px;
+    background:red;
+    position: absolute;
+    margin-left: 180px;
+    
+}
+.three{
+    height: 500px;
+    width: 5px;
+    background-color: black;
+    margin-left:463px;
+    margin-top: -300px;
+
+}
